@@ -1,0 +1,25 @@
+{
+  "name": "mvp",
+  "version": "1.0.0",
+  "description": "whightLoss",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thor0688/MVP.git"
+  },
+  "author": "Michael Swanson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thor0688/MVP/issues"
+  },
+  "homepage": "https://github.com/thor0688/MVP#readme",
+  "dependencies": {
+    "angular": "^1.6.4",
+    "express": "^4.15.2",
+    "mongodb": "^2.2.26",
+    "mongoose": "^4.9.6"
+  }
+}
