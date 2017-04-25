@@ -17,9 +17,14 @@
   },
   "homepage": "https://github.com/thor0688/MVP#readme",
   "dependencies": {
+    "ajax": "0.0.4",
     "angular": "^1.6.4",
+    "body-parser": "^1.17.1",
     "express": "^4.15.2",
     "mongodb": "^2.2.26",
     "mongoose": "^4.9.6"
+  },
+  "devDependencies": {
+    "nodemon": "^1.11.0"
   }
 }
